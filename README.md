@@ -4,6 +4,7 @@ This is an object orientated C++ console application. It has been built to behav
 
 ![](assets/recording_001.gif)
 
+
 ![](assets/vending-machine_flowchart.jpeg)
 
 To run this application simply download and find the .exe in the "application folder", double click this and start using the vending machine.
